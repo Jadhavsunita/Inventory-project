@@ -47,7 +47,6 @@ git config --global user.name "Jadhavsunita"
 git config --global user.email "sunitajadhav.jd94@gmail.com"
 git config --list
 
-git clone https:https://github.com/Jadhavsunita/Inventory-project.git
 sudo systemctl start docker 
 sudo systemctl enable docker 
 sudo docker login 
