@@ -43,11 +43,11 @@ ssh -i "key.pem" ec2-user@ec2-18-206-204-23.compute-1.amazonaws.com
 sudo dnf update 
 sudo dnf install python tree git docker -y
 
-git config --global user.name "Atul Kamble"
-git config --global user.email "atul_kamble@hotmail.com"
+git config --global user.name "Jadhavsunita"
+git config --global user.email "sunitajadhav.jd94@gmail.com"
 git config --list
 
-
+git clone https:https://github.com/Jadhavsunita/Inventory-project.git
 sudo systemctl start docker 
 sudo systemctl enable docker 
 sudo docker login 
