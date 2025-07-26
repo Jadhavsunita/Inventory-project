@@ -1,0 +1,4 @@
+Project Overview
+Project Name: Inventory Manager
+
+Customer Goal: A scalable web application to manage product inventory across multiple warehouses. The app should be developed in Python (Flask), containerized using Docker, deployed on EKS, and managed through a CI/CD pipeline using Jenkins and Terraform.
